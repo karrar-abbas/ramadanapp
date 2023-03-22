@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ramadan</string>
+    <string name="amsak">موعد الامساك</string>
+    <string name="amsaktime">3:50 صباحا</string>
+    <string name="fajr">آذان الفجر</string>
+    <string name="fajrtT">4:00 صباحا</string>
+    <string name="afternoon">آذان الظهر</string>
+    <string name="afternoontime">12:00 الظهر</string>
+    <string name="evening">آذان المغرب</string>
+    <string name="eveingtime">6:00 مساءا</string>
+</resources>
